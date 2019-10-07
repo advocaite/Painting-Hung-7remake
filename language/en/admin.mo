@@ -1,0 +1,40 @@
+<?php
+if(!defined('INSIDE')){ die("attemp hacking");}
+$lang['Wellcome']='Hello';
+$lang['User Setting']='Settings Private';
+$lang['List Messages']='Inbox';
+$lang['Change PassWord']='Change Password';
+$lang['Game Manager']='Management Game';
+$lang['Logout']='Exit';
+$lang['List Users Manager']='Management Rights';
+$lang['List Users']='DS Player';
+$lang['List Ban user']='DS account is locked';
+$lang['List Account sister']='TK Visit Chung';
+$lang['List Bad List']='TK Track';
+$lang['Asuwa Config']='Game Configuration';
+$lang['List Security']='DS Log in';
+$lang['List Error']='DS SQL Error';
+$lang['Check Name']='Track Name';
+$lang['List Tracking']='Check Multi';
+$lang['Send Message']='Send Message';
+$lang['List Attack']='DS Attack';
+$lang['List Attack Troop']='DS Soldier Go TC';
+$lang['List Status']='DS Status Game';
+$lang['Help Troop']='Soldier Information';
+$lang['Fix Error']='Repair';
+$lang['Map Manage']='Indicator Map';	
+$lang['Building Types']='Indicator Project';
+$lang['Tech tree']='QH Tree Project';
+$lang['List Troops']='Soldier Indicator';
+$lang['List Mission']='DS Mission';
+$lang['Plus Config']='Number Plus';
+$lang['List Plus']='DS Management Plus';
+$lang['Create Rare']='Create treasures';
+$lang['Create Default User']='Create Account Default';
+$lang['Create Map']='Create a Map';
+$lang['Create Zone']='The Start-DK';
+$lang['Start CTC']='Battlefield Member';
+$lang['Create Graph CTC']='Create Maps CTC';
+$lang['Npc']='Arena';
+$lang['Edit News']='Login page news';
+?>

@@ -1,0 +1,73 @@
+<?php
+if(!defined('INSIDE')){ die("attemp hacking");}
+$lang['home']='logo here';
+$lang['title']='Travian 4 VN Stable build';
+$lang['news']='News';
+$lang['register']='Register'; 
+$lang['TranhHung']='Travian 4 VN Stable build';
+$lang['Introduction']='<b> Travian 4 VN </b> is a construction strategy game genre on the web platform, but retains the inherent nature of this genre.';
+$lang['Help']='With the information in the help system IMG hope will help players quickly grasp the content and how to play <b> Travian 4 VN  </b>.';
+$lang['Link']='<a href="#">&raquo;details</a>';
+$lang['total_players']='Total Players ';
+$lang['total_active']='Players activated ';
+$lang['total_online']='Players online ';
+$lang['player_statisics']='Player Statisics';
+$lang['shop']='Online Shop';  
+$lang['shop_link']='http://yourdomain.com/shop/';
+$lang['fb_page_url']= 'http://www.facebook.com/platform';
+$lang['forum']='Forum';
+$lang['forum_link']='http://yourdomain.com/forum/';
+$lang['more_games']='More Games';  
+$lang['login']='Login'; 
+$lang['GAME_TOUR']='Game Tour';
+$lang['SCREENSHOTS']='Screen Shots';
+$lang['description'] = 'Master the art of ancient tactics as Roman, Gaul or Teuton!';
+$lang['strategy game'] = $lang['title'];
+$lang['what is'] = $lang['title'].' is one of the most popular browser games in the world. As a player in '.$lang['title'].', you will build your own empire, recruit a mighty army, and fight with your allies for game world hegemony.';
+$lang['register free'] = 'Register here for free!';
+$lang['title1'] = 'Latest game world';
+$lang['desc1'] = 'Register on the latest<br />game world and enjoy<br />the advantages of<br />being one of the<br />first players.';$lang['text1'] = 'Play '.$lang['title'].' now';
+$lang['link1'] = '#serverRegister';
+$lang['title2'] = 'The new '.$lang['title'];
+$lang['desc2'] = 'Now with a revolutionized<br />hero system,<br />completely new graphics<br />and an interactive<br />map!';
+$lang['text2'] = 'Explore the new '.$lang['title'];
+$lang['link2'] = '#serverRegister';
+$lang['title3'] = 'Community';
+$lang['desc3'] = 'Become a part of one<br />of the biggest gaming<br />communities in the<br />world.';
+$lang['text3'] = 'Become part of our community now!';
+$lang['link3'] = '#';
+$lang['learn more'] = 'Learn more<br />about '.$lang['title'].'!';
+$lang['strip1'] = 'Upgrade your fields and mines to increase your resource production. You will need resources to construct buildings and train soldiers.';
+$lang['strip2'] = 'Construct and expand the buildings in your village. Buildings improve your overall infrastructure, increase your resource production and allow you to research, train and upgrade your troops.';
+$lang['strip3'] = 'View and interact with your surroundings. You can make new friends or new enemies, make use of the nearby oases and observe as your empire grows and becomes stronger.';
+$lang['strip4'] = 'Follow your improvement and success and compare yourself to other players. Look at the Top 10 rankings and fight to win a weekly medal.';
+$lang['strip5'] = 'Receive detailed reports about your adventures, trades and battles. Don\'t forget to check the brand new reports about the happenings taking place in your surroundings.';
+$lang['strip6'] = 'Exchange information and conduct diplomacy with other players. Always remember that communication is the key to winning new friends and solving old conflicts.';
+
+$lang["SCREENSHOTS_T4_TITLE1"] = "Village centre";
+    $lang["SCREENSHOTS_T4_TITLE2"] = "Village overview";
+    $lang["SCREENSHOTS_T4_TITLE3"] = "The hero";
+    $lang["SCREENSHOTS_T4_TITLE4"] = "Building information";
+    $lang["SCREENSHOTS_T4_TITLE5"] = "Surrounding territories" ;
+    $lang["SCREENSHOTS_T4_TITLE6"] = "Battle report" ;
+    $lang["SCREENSHOTS_T4_TITLE7"] = "Medals system" ;
+    $lang["SCREENSHOTS_T4_TITLE8"] = "Task system";
+    $lang["SCREENSHOTS_T4_DESC1"] = "Your village could like this one day, becoming the starting point for your vast empire.";
+    $lang["SCREENSHOTS_T4_DESC2"] = "Lumber, clay, iron and crop are the vital resources which will fuel the economy of your village and feed your people; they will provide you with the materials necessary for construction and war. With these valuable resources, you can train a powerful conquering army.";
+    $lang["SCREENSHOTS_T4_DESC3"] = "You can send your hero to adventures, where he will have to face great danger and pass difficult challenges. If your hero is successful, he stands a chance of bringing something valuable home.";
+    $lang["SCREENSHOTS_T4_DESC4"] = "For it to become powerful and productive, your village will need a great number of buildings. At the beginning, choose well what you want to construct first, as resources are scarce.";
+    $lang["SCREENSHOTS_T4_DESC5"] = "Explore your surrounding territories in order to get to know your neighbors; you can opt for a path of peace, creating alliances and confederacies, or you can wage war and conquer the surrounding lands. There may be rich oases in your vicinity; conquer them to gain various valuable bonuses, but always be aware of the dangerous wild animals that inhabit them.";
+    $lang["SCREENSHOTS_T4_DESC6"] = "It is wise to train your army early on, so you can defend yourself and attack others. This way, you can raid more resources and build up your empire more quickly.";
+    $lang["SCREENSHOTS_T4_DESC7"] = "At the end of every week, the very best 10 players and alliances will be elected, topping in different categories; as a reward for their prowess they will receive medals, celebrating their achievements.";
+    $lang["SCREENSHOTS_T4_DESC8"] = "To assist you when you first start managing your empire, we have sent the Taskmaster; he will guide you with tips and advice in order to help you build up your village. Just click on the image of the Taskmaster to your left to activate him.";
+
+    $lang['screenshots2_desc1'] = 'Your village could like this one day, becoming the starting point for your vast empire.';
+    $lang['screenshots2_desc2'] = 'Lumber, clay, iron and crop are the vital resources which will fuel the economy of your village and feed your people; they will provide you with the materials necessary for construction and war. With these valuable resources, you can train a powerful conquering army.';
+    $lang['screenshots2_desc3'] = 'You can send your hero to adventures, where he will have to face great danger and pass difficult challenges. If your hero is successful, he stands a chance of bringing something valuable home.';
+    $lang['screenshots2_desc4'] = 'For it to become powerful and productive, your village will need a great number of buildings. At the beginning, choose well what you want to construct first, as resources are scarce.';
+    $lang['screenshots2_desc5'] = 'Explore your surrounding territories in order to get to know your neighbors; you can opt for a path of peace, creating alliances and confederacies, or you can wage war and conquer the surrounding lands. There may be rich oases in your vicinity; conquer them to gain various valuable bonuses, but always be aware of the dangerous wild animals that inhabit them.';
+    $lang['screenshots2_desc6'] = 'It is wise to train your army early on, so you can defend yourself and attack others. This way, you can raid more resources and build up your empire more quickly.';
+    $lang['screenshots2_desc7'] = 'At the end of every week, the very best 10 players and alliances will be elected, topping in different categories; as a reward for their prowess they will receive medals, celebrating their achievements.';
+    $lang['screenshots2_desc8'] = 'To assist you when you first start managing your empire, we have sent the Taskmaster; he will guide you with tips and advice in order to help you build up your village. Just click on the image of the Taskmaster to your left to activate him.';
+         
+?>

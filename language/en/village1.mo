@@ -1,0 +1,85 @@
+<?php
+if(!defined('INSIDE')){ die("attemp hacking");}
+$lang['Village center']='Inner City';
+$lang['Hero']='General';
+$lang['Villages'] = 'Citys';
+$lang['Lumber'] = 'Timber';
+$lang['Clay'] = 'Stone';
+$lang['Iron'] = 'Ore';
+$lang['Crop'] = 'Food Farm';
+$lang['Crops']='Consumption';
+$lang['per hour']='Per Hour';
+$lang['Troops']='Troops';
+$lang['Production']='Natural Resources'; 
+$lang['My village']='My City';
+$lang['Woodcutter']='Forest';
+$lang['Clay_Pit']='Quary';
+$lang['Iron_Mine']='Ore Mine';
+$lang['Cropland']='Food Farm';
+$lang['level']='level';
+$lang['Building site']='Building site';
+$lang['troopmove']='Troop Movements';
+$lang['attack']='attack';
+$lang['enforce']='enforce';
+$lang['reinforce']='reinforce';
+$lang['Building']='Building';
+$lang['hrs']='hrs';
+$lang['o`clock']='o`clock';
+$lang['cancel']='cancel';
+$lang['done_at']='completed at';
+$lang['None']='none';
+$lang['NewName']='Untitled';
+$lang['hero']='General';
+$lang['troop_village_defend']='Military aid from the:';
+$lang['view']='Details';
+$lang['capital']='Capital';
+$lang['Finish']='Complete (20 Coins)';
+$lang['Speed up']='Decrease construction time';
+
+$lang['sunda1']='troop1';
+$lang['sunda2']='troop2';
+$lang['sunda3']='troop3';
+$lang['sunda4']='troop4';
+$lang['sunda5']='troop5';
+$lang['sunda6']='troop6';
+$lang['sunda7']='troop7';
+$lang['sunda8']='troop8';
+$lang['sunda9']='troop9';
+$lang['sunda10']='troop10';
+$lang['sunda11']='troop11';
+
+$lang['arabia1']='troop1';
+$lang['arabia2']='troop2';
+$lang['arabia3']='troop3';
+$lang['arabia4']='troop4';
+$lang['arabia5']='troop5';
+$lang['arabia6']='troop6';
+$lang['arabia7']='troop7';
+$lang['arabia8']='troop8';
+$lang['arabia9']='troop9';
+$lang['arabia10']='troop10';
+$lang['arabia11']='troop11';
+
+$lang['mongo1']='troop1';
+$lang['mongo2']='troop2';
+$lang['mongo3']='troop3';
+$lang['mongo4']='troop4';
+$lang['mongo5']='troop5';
+$lang['mongo6']='troop6';
+$lang['mongo7']='troop7';
+$lang['mongo8']='troop8';
+$lang['mongo9']='troop9';
+$lang['mongo10']='troop10';
+$lang['mongo11']='troop11';
+
+$lang['scorpion']='scorpion';
+$lang['snake']='snake';
+$lang['wolf']='wolf';
+$lang['vulture']='vulture';
+$lang['wildboard']='wildboard';
+$lang['rhinoceros']='rhinoceros';
+$lang['bear']='bear';
+$lang['blackpanther']='black panther';
+$lang['lion']='lion';
+$lang['elephant']='elephant';
+?>
